@@ -1,0 +1,9 @@
+{
+	"name": "adf-demo-uttam",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3f6939a9-741b-4408-8f1a-5461ef250a6c",
+		"tenantId": "1f36dfad-12e2-4bf4-8f17-91e5afbe0fb9"
+	}
+}
